@@ -1,0 +1,12 @@
+# Configurations
+
+# Packages
+deploy_env="mainnet-1"
+
+# Blockchain
+seed_node="ebacd3e666003397fb685cd44956d33419219950@seed2.lava.chainlayer.net:26656,f1caeaacfac32e4dd00916e8d912e1d834e94eb3@lava-seed.stakecito.com:26666"
+
+# Lavad service
+keyring_backend="test"
+lava_config_folder="$HOME/.lava/config"
+lavad_home_folder="$HOME/.lava"
